@@ -1,0 +1,10 @@
+c:\users\vuzee\documents\visual studio 2013\Projects\imaginarni\imaginarni\bin\Debug\imaginarni.exe.config
+c:\users\vuzee\documents\visual studio 2013\Projects\imaginarni\imaginarni\bin\Debug\imaginarni.exe
+c:\users\vuzee\documents\visual studio 2013\Projects\imaginarni\imaginarni\bin\Debug\imaginarni.pdb
+c:\users\vuzee\documents\visual studio 2013\Projects\imaginarni\imaginarni\bin\Debug\imaginarni.xml
+c:\users\vuzee\documents\visual studio 2013\Projects\imaginarni\imaginarni\obj\Debug\imaginarni.Form1.resources
+c:\users\vuzee\documents\visual studio 2013\Projects\imaginarni\imaginarni\obj\Debug\imaginarni.Resources.resources
+c:\users\vuzee\documents\visual studio 2013\Projects\imaginarni\imaginarni\obj\Debug\imaginarni.vbproj.GenerateResource.Cache
+c:\users\vuzee\documents\visual studio 2013\Projects\imaginarni\imaginarni\obj\Debug\imaginarni.exe
+c:\users\vuzee\documents\visual studio 2013\Projects\imaginarni\imaginarni\obj\Debug\imaginarni.xml
+c:\users\vuzee\documents\visual studio 2013\Projects\imaginarni\imaginarni\obj\Debug\imaginarni.pdb
